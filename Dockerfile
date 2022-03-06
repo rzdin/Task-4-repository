@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
-EXPOSE 8000:8081
+EXPOSE 8081
 
 RUN mkdir /app
 
