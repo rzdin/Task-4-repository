@@ -50,14 +50,6 @@
             <version>2.3</version>
             <scope>compile</scope>
         </dependency>
-		
-		<dependency>
-			<groupId>io.fabric8</groupId>
-			<artifactId>kubernetes-client</artifactId>
-			<version>${k8s.client.version}</version>
-		</dependency>
-		
-
     </dependencies>
 
 	<build>
